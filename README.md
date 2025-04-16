@@ -39,7 +39,7 @@ A simple and efficient Todo List application built entirely in Kotlin. This appl
 ---
 
 ## Git Diagram
-![TodoAppdiagram](https://github.com/user-attachments/assets/0b1814fe-5d4d-4086-aaae-926db68666ae)
+![TodoAppdiagram]()
 
 ---
 
