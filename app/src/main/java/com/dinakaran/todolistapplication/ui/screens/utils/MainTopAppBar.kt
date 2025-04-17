@@ -1,4 +1,4 @@
-package com.dinakaran.todolistapplication.ui.screens
+package com.dinakaran.todolistapplication.ui.screens.utils
 
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.material.icons.Icons

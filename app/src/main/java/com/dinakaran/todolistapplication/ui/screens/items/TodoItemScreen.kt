@@ -1,4 +1,4 @@
-package com.dinakaran.todolistapplication.ui.screens
+package com.dinakaran.todolistapplication.ui.screens.items
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -49,7 +49,7 @@ fun TodoItemScreen(
                         onItemsChanged(repository.getItemsForList(lists?.id ?: 0))
                     },
                     onMove = { showMoveDialog = item },
-                    onEdit = { showEditDialog =item},
+                    onEdit = { showEditDialog = item },
                     onDelete = {
                         repository.deleteItem(item.id)
                         onItemsChanged(repository.getItemsForList(lists?.id ?: 0))

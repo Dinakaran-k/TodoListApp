@@ -1,4 +1,4 @@
-package com.dinakaran.todolistapplication.ui.screens
+package com.dinakaran.todolistapplication.ui.screens.list
 
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items

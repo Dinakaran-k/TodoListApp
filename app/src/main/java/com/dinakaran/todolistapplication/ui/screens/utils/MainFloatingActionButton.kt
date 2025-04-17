@@ -1,4 +1,4 @@
-package com.dinakaran.todolistapplication.ui.screens
+package com.dinakaran.todolistapplication.ui.screens.utils
 
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.Add

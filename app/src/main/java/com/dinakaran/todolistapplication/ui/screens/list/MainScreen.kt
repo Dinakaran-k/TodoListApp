@@ -1,4 +1,4 @@
-package com.dinakaran.todolistapplication.ui.screens
+package com.dinakaran.todolistapplication.ui.screens.list
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.padding
@@ -16,6 +16,10 @@ import com.dinakaran.todolistapplication.data.TodoList
 import com.dinakaran.todolistapplication.data.TodoRepository
 import com.dinakaran.todolistapplication.ui.dialogs.itemDialogs.AddItemDialog
 import com.dinakaran.todolistapplication.ui.dialogs.listDialogs.AddListDialog
+import com.dinakaran.todolistapplication.ui.screens.items.TodoItemScreen
+import com.dinakaran.todolistapplication.ui.screens.utils.EmptyTodoListUI
+import com.dinakaran.todolistapplication.ui.screens.utils.MainFloatingActionButton
+import com.dinakaran.todolistapplication.ui.screens.utils.MainTopAppBar
 
 /**
  * the main screen of the app
