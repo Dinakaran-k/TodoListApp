@@ -51,7 +51,7 @@ A simple and efficient Todo List application built entirely in Kotlin. This appl
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/Dinakaran-k/TodoListApplication.git
+    git clone https://github.com/Dinakaran-k/TodoListApp.git
     ```
 
 2. Open the project in Android Studio:
