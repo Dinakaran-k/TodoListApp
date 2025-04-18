@@ -38,10 +38,6 @@ A simple and efficient Todo List application built entirely in Kotlin. This appl
 
 ---
 
-## Git Diagram
-![TodoAppdiagram]()
-
----
 
 ## Getting Started
 
